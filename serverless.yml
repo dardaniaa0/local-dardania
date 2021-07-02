@@ -1,0 +1,10 @@
+org: dadraniaa0
+app: my-dardania-app
+name: react-starter
+component: website
+
+inputs:
+  src:
+    src: ./src
+    hook: npm run build
+    dist: ./public
